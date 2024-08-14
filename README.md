@@ -6,8 +6,6 @@ As a developer passionate about driving operational efficiency and fostering dig
 
 I believe that technology goes beyond mere implementation; it should create value and strengthen human connections. I am committed to collaborating with multidisciplinary teams and adopting hybrid project models, utilizing both Agile and Traditional methodologies, to meet critical client requirements and exceed their expectations.
 
-📫 Let’s connect: [heitorpagnan@gmail.com]
-
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-pagnan/)
 
 ## Technologies that I use in my day
